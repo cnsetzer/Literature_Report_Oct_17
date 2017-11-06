@@ -1,52 +1,8 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: Report.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Report.aux
 The style file: aasjournal.bst
 Database file #1: PhD_Main_Project.bib
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in LSSTScienceCollaboration2009
 Warning--empty journal in LSSTScienceCollaboration2017
 Warning--empty journal in Rosswog2016a
 Warning--empty journal in Villar2017
-You've used 4 entries,
-            3222 wiz_defined-function locations,
-            683 strings with 12760 characters,
-and the built_in function-call counts, 6397 in all, are:
-= -- 143
-> -- 1202
-< -- 0
-+ -- 400
-- -- 408
-* -- 876
-:= -- 1404
-add.period$ -- 8
-call.type$ -- 4
-change.case$ -- 22
-chr.to.int$ -- 4
-cite$ -- 8
-duplicate$ -- 76
-empty$ -- 109
-format.name$ -- 411
-if$ -- 1053
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 21
-num.names$ -- 16
-pop$ -- 38
-preamble$ -- 1
-purify$ -- 22
-quote$ -- 0
-skip$ -- 41
-stack$ -- 0
-substring$ -- 28
-swap$ -- 0
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 36
-warning$ -- 4
-while$ -- 9
-width$ -- 0
-write$ -- 48
 (There were 4 warnings)
