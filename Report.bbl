@@ -36,4 +36,35 @@
   arXiv:0912.0201.
 \newblock \url{http://arxiv.org/abs/0912.0201}
 
+\bibitem[{{LSST Science Collaboration} {et~al.}(2017){LSST Science
+  Collaboration}, Marshall, Anguita, Bianco, Bellm, Brandt, Clarkson, Connolly,
+  Gawiser, Ivezic, Jones, Lochner, Lund, Mahabal, Nidever, Olsen, Ridgway,
+  Rhodes, Shemmer, Trilling, Vivas, Walkowicz, Willman, Yoachim, Anderson,
+  Antilogus, Angus, Arcavi, Awan, Biswas, Bell, Bennett, Britt, Buzasi,
+  Casetti-Dinescu, Chomiuk, Claver, Cook, Davenport, Debattista, Digel, Doctor,
+  Firth, Foley, Fong, Galbany, Giampapa, Gizis, Graham, Grillmair, Gris,
+  Haiman, Hartigan, Hawley, Hlozek, Jha, Johns-Krull, Kanbur, Kalogera,
+  Kashyap, Kasliwal, Kessler, Kim, Kurczynski, Lahav, Liu, Malz, Margutti,
+  Matheson, McEwen, McGehee, Meibom, Meyers, Monet, Neilsen, Newman, O'Dowd,
+  Peiris, Penny, Peters, Poleski, Ponder, Richards, Rho, Rubin, Schmidt,
+  Schuhmann, Shporer, Slater, Smith, Soares-Santos, Stassun, Strader, Strauss,
+  Street, Stubbs, Sullivan, Szkody, Trimble, Tyson, de~Val-Borro, Valenti,
+  Wagoner, Wood-Vasey, \& Zauderer}]{LSSTScienceCollaboration2017}
+{LSST Science Collaboration}, L.~S., Marshall, P., Anguita, T., {et~al.} 2017,
+  arXiv:1708.04058.
+\newblock \url{http://arxiv.org/abs/1708.04058
+  http://dx.doi.org/10.5281/zenodo.842713}
+
+\bibitem[{Rosswog {et~al.}(2016)Rosswog, Feindt, Korobkin, Wu, Sollerman,
+  Goobar, \& Martinez-Pinedo}]{Rosswog2016a}
+Rosswog, S., Feindt, U., Korobkin, O., {et~al.} 2016, arXiv:1611.09822.
+\newblock \url{http://arxiv.org/abs/1611.09822
+  http://dx.doi.org/10.1088/1361-6382/aa68a9}
+
+\bibitem[{Villar {et~al.}(2017)Villar, Guillochon, Berger, Metzger,
+  Cowperthwaite, Nicholl, Alexander, Blanchard, Chornock, Eftekhari, Fong,
+  Margutti, \& Williams}]{Villar2017}
+Villar, V.~A., Guillochon, J., Berger, E., {et~al.} 2017, arXiv:1710.11576.
+\newblock \url{http://arxiv.org/abs/1710.11576}
+
 \end{thebibliography}
