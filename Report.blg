@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Report.aux
-The style file: yahapj.bst
+The style file: aasjournal.bst
 Database file #1: PhD_Main_Project.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in Lochner2016
@@ -10,38 +10,38 @@ Warning--empty journal in LSSTScienceCollaboration2017
 Warning--empty journal in Rosswog2016a
 Warning--empty journal in Villar2017
 You've used 5 entries,
-            3215 wiz_defined-function locations,
-            692 strings with 13077 characters,
-and the built_in function-call counts, 7088 in all, are:
+            3222 wiz_defined-function locations,
+            690 strings with 13050 characters,
+and the built_in function-call counts, 6909 in all, are:
 = -- 185
 > -- 1248
 < -- 0
 + -- 416
 - -- 427
-* -- 975
-:= -- 1518
-add.period$ -- 5
+* -- 925
+:= -- 1498
+add.period$ -- 10
 call.type$ -- 5
-change.case$ -- 35
+change.case$ -- 30
 chr.to.int$ -- 5
 cite$ -- 10
 duplicate$ -- 95
-empty$ -- 168
+empty$ -- 136
 format.name$ -- 429
-if$ -- 1193
+if$ -- 1151
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 5
-newline$ -- 20
+newline$ -- 25
 num.names$ -- 20
-pop$ -- 55
+pop$ -- 50
 preamble$ -- 1
-purify$ -- 35
+purify$ -- 30
 quote$ -- 0
-skip$ -- 66
+skip$ -- 51
 stack$ -- 0
-substring$ -- 55
-swap$ -- 5
+substring$ -- 35
+swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
@@ -49,5 +49,5 @@ type$ -- 45
 warning$ -- 5
 while$ -- 12
 width$ -- 0
-write$ -- 49
+write$ -- 59
 (There were 5 warnings)
