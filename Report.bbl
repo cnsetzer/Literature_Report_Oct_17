@@ -1,6 +1,12 @@
 \begin{thebibliography}{}
-\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand\natexlab[1]{#1}
+\providecommand\JournalTitle[1]{#1}
+
+\bibitem[{Lochner {et~al.}(2016)Lochner, McEwen, Peiris, Lahav, \&
+  Winter}]{Lochner2016}
+Lochner, M., McEwen, J.~D., Peiris, H.~V., Lahav, O., \& Winter, M.~K.
+  \href{http://dx.doi.org/10.3847/0067-0049/225/2/31}{2016},
+  \href{http://arxiv.org/abs/1603.00882}{{\sffamily arXiv:1603.00882}}
 
 \bibitem[{{LSST Science Collaboration} {et~al.}(2009){LSST Science
   Collaboration}, Abell, Allison, Anderson, Andrew, Angel, Armus, Arnett,
@@ -32,9 +38,9 @@
   Tyson, {Van Berg}, Berk, VanderPlas, Verde, Vrsnak, Walkowicz, Wandelt, Wang,
   Wang, Warner, Wechsler, West, Wiecha, Williams, Willman, Wittman, Wolff,
   Wood-Vasey, Wozniak, Young, Zentner, \& Zhan}]{LSSTScienceCollaboration2009}
-{LSST Science Collaboration}, L.~S., Abell, P.~A., Allison, J., {et~al.} 2009,
-  arXiv:0912.0201.
-\newblock \url{http://arxiv.org/abs/0912.0201}
+{LSST Science Collaboration}, L.~S., Abell, P.~A., Allison, J., {et~al.}
+  \href{http://arxiv.org/abs/0912.0201}{2009},
+  \href{http://arxiv.org/abs/0912.0201}{{\sffamily arXiv:0912.0201}}
 
 \bibitem[{{LSST Science Collaboration} {et~al.}(2017){LSST Science
   Collaboration}, Marshall, Anguita, Bianco, Bellm, Brandt, Clarkson, Connolly,
@@ -50,21 +56,21 @@
   Schuhmann, Shporer, Slater, Smith, Soares-Santos, Stassun, Strader, Strauss,
   Street, Stubbs, Sullivan, Szkody, Trimble, Tyson, de~Val-Borro, Valenti,
   Wagoner, Wood-Vasey, \& Zauderer}]{LSSTScienceCollaboration2017}
-{LSST Science Collaboration}, L.~S., Marshall, P., Anguita, T., {et~al.} 2017,
-  arXiv:1708.04058.
-\newblock \url{http://arxiv.org/abs/1708.04058
-  http://dx.doi.org/10.5281/zenodo.842713}
+{LSST Science Collaboration}, L.~S., Marshall, P., Anguita, T., {et~al.}
+  \href{http://dx.doi.org/10.5281/zenodo.842713}{2017},
+  \href{http://arxiv.org/abs/1708.04058}{{\sffamily arXiv:1708.04058}}
 
 \bibitem[{Rosswog {et~al.}(2016)Rosswog, Feindt, Korobkin, Wu, Sollerman,
   Goobar, \& Martinez-Pinedo}]{Rosswog2016a}
-Rosswog, S., Feindt, U., Korobkin, O., {et~al.} 2016, arXiv:1611.09822.
-\newblock \url{http://arxiv.org/abs/1611.09822
-  http://dx.doi.org/10.1088/1361-6382/aa68a9}
+Rosswog, S., Feindt, U., Korobkin, O., {et~al.}
+  \href{http://dx.doi.org/10.1088/1361-6382/aa68a9}{2016},
+  \href{http://arxiv.org/abs/1611.09822}{{\sffamily arXiv:1611.09822}}
 
 \bibitem[{Villar {et~al.}(2017)Villar, Guillochon, Berger, Metzger,
   Cowperthwaite, Nicholl, Alexander, Blanchard, Chornock, Eftekhari, Fong,
   Margutti, \& Williams}]{Villar2017}
-Villar, V.~A., Guillochon, J., Berger, E., {et~al.} 2017, arXiv:1710.11576.
-\newblock \url{http://arxiv.org/abs/1710.11576}
+Villar, V.~A., Guillochon, J., Berger, E., {et~al.}
+  \href{http://arxiv.org/abs/1710.11576}{2017},
+  \href{http://arxiv.org/abs/1710.11576}{{\sffamily arXiv:1710.11576}}
 
 \end{thebibliography}
