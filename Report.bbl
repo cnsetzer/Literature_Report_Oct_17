@@ -2,6 +2,13 @@
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\href{#1}{#1}}
 
+\bibitem[{Heger {et~al.}(2002)Heger, Fryer, Woosley, Langer, \&
+  Hartmann}]{Heger2002}
+Heger, A., Fryer, C.~L., Woosley, S.~E., Langer, N., \& Hartmann, D.~H. 2002,
+  arXiv:0212469.
+\newblock \url{http://arxiv.org/abs/astro-ph/0212469
+  http://dx.doi.org/10.1086/375341}
+
 \bibitem[{Lochner {et~al.}(2016)Lochner, McEwen, Peiris, Lahav, \&
   Winter}]{Lochner2016}
 Lochner, M., McEwen, J.~D., Peiris, H.~V., Lahav, O., \& Winter, M.~K. 2016,
@@ -62,11 +69,33 @@ Lochner, M., McEwen, J.~D., Peiris, H.~V., Lahav, O., \& Winter, M.~K. 2016,
 \newblock \url{http://arxiv.org/abs/1708.04058
   http://dx.doi.org/10.5281/zenodo.842713}
 
+\bibitem[{Mazzali {et~al.}(2007)Mazzali, Roepke, Benetti, \&
+  Hillebrandt}]{Mazzali2007}
+Mazzali, P.~A., Roepke, F.~K., Benetti, S., \& Hillebrandt, W. 2007,
+  arXiv:0702351.
+\newblock \url{http://arxiv.org/abs/astro-ph/0702351
+  http://dx.doi.org/10.1126/SCIENCE.1136259}
+
 \bibitem[{Rosswog {et~al.}(2016)Rosswog, Feindt, Korobkin, Wu, Sollerman,
   Goobar, \& Martinez-Pinedo}]{Rosswog2016a}
 Rosswog, S., Feindt, U., Korobkin, O., {et~al.} 2016, arXiv:1611.09822.
 \newblock \url{http://arxiv.org/abs/1611.09822
   http://dx.doi.org/10.1088/1361-6382/aa68a9}
+
+\bibitem[{Scolnic {et~al.}(2017)Scolnic, Kessler, Brout, Cowperthwaite,
+  Soares-Santos, Annis, Herner, Chen, Sako, Doctor, Butler, Palmese, Diehl,
+  Frieman, Holz, Berger, Chornock, Villar, Nicholl, Biswas, Hounsell, Foley,
+  Metzger, Rest, Garc{\'{i}}a-Bellido, M{\"{o}}ller, Nugent, Abbott, Abdalla,
+  Allam, Bechtol, Benoit-L{\'{e}}vy, Bertin, Brooks, Buckley-Geer, Rosell,
+  Kind, Carretero, Castander, Cunha, D'Andrea, da~Costa, Davis, Doel,
+  Drlica-Wagner, Eifler, Flaugher, Fosalba, Gaztanaga, Gerdes, Gruen, Gruendl,
+  Gschwend, Gutierrez, Hartley, Honscheid, James, Johnson, Johnson, Krause,
+  Kuehn, Kuhlmann, Lahav, Li, Lima, Maia, March, Marshall, Menanteau, Miquel,
+  Neilsen, Plazas, Sanchez, Scarpine, Schubnell, Sevilla-Noarbe, Smith, Smith,
+  Sobreira, Suchyta, Swanson, Tarle, Thomas, Tucker, Walker, \&
+  Collaboration}]{Scolnic2017}
+Scolnic, D., Kessler, R., Brout, D., {et~al.} 2017, arXiv:1710.05845.
+\newblock \url{http://arxiv.org/abs/1710.05845}
 
 \bibitem[{Villar {et~al.}(2017)Villar, Guillochon, Berger, Metzger,
   Cowperthwaite, Nicholl, Alexander, Blanchard, Chornock, Eftekhari, Fong,
