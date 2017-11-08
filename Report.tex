@@ -46,10 +46,10 @@ As expected, with only one observed event, there is alot of the physics of KNe t
 
 \section{Classification of Transients with LSST} % 0.5 page
 It is easy to forget the distinction between detection of a transient and the classification of the event. Detection of an event is straightforward, using a standard template image of region, perform image differencing with the template and a new image and look at the remaining signal. If a signal exists beyond some threshold against the background noise this can confidently be labeled a detection. However, upon seeing a new event in the sky we cannot immediately say that it is a supernova or any other transient. This is because all photons are the same regardless of the source, in the sense that a photon isn't distinctly labeled as a SN photon etc. However, they do vary in spectral energy distribution and flux over time. These two facts alone allow us to distinguish one type of an event from another. \par
-The challenge is, when knowledge of the intrinsic variations between sources is limited, or the data describing the event is limited, how are different events able to be distinguished from one another? This is where machine learning becomes incredibly useful. As discussed in \cite{Lochner2016}, there are many approaches to using machine learning for classification of transientson from the dataset that the LSST will generate. The process to do this is actually two-fold. First, given the information about the lightcurve, features must be extracted. Once a feature set is defined, application of a machine learning algorithm determines the classification object from the power in the different features which define the object's lightcurve \citep{Lochner2016}. \par
+The challenge is, when knowledge of the intrinsic variations between sources is limited, or the data describing the event is limited, how are different events able to be distinguished from one another? This is where machine learning becomes incredibly useful. As discussed in \cite{Lochner2016}, there are many approaches to using machine learning for classification of transients from the dataset that the LSST will generate. The process to do this is actually two-fold. First, given the information about the lightcurve, features must be extracted. Once a feature set is defined, application of a machine learning algorithm determines the classification object from the power in the different features which define the object's lightcurve \citep{Lochner2016}. \par
 
-\subsection{Photometric Classification} %1.5 page
-For this discussion it is assumed that an adequately sampled light curve is availabe for each of the events being classified. What this actually means in terms of sampled data points across a lightcurve is yet to be determined for KNe, but for SNe there is some concensus.
+\subsection{Photometric Classification with Machine Learning} %1.5 page
+For this discussion it is assumed that an adequately sampled light curve is available for each of the events being classified. What this actually means in terms of sampled data points across a lightcurve is yet to be determined for KNe, but for SNe there is some consensus on what observations are necessary for a properly sampled lightcurve. As discussed in the literature these criteria are, one observation earlier than five days before peak, one observation greater than thirty days post-peak, at least seven nights of observations from the time twenty days prior to peak brightness until sixty days post peak brightness, and the largest gap between observations not greater than fifteen days \citep{LSSTScienceCollaboration2017}. Further selection cuts can be placed on the required observations for an adequate lightcurve, for example a signal-to-noise requirement for a given number of observations could be required. However the listed criteria were those that are directly affected by the sampling of the lightcurve.
 \section{Areas for Future Work} % 1 page
 Better understanding of what a representative sample for Kilonovae.
 Understand the desired sampling for photometric classification using SNmachine. Which parts of the lightcurve need to be sampled. Does this affect SN or KN classification?
@@ -57,7 +57,7 @@ KNe lightcurves are quite featureless. Would color curves help? Colors do evolve
 Considering the detection of a population of KNe, what cosmology can be done with them?
 What would a ToO program for the LSST actually look like?
 
-\newpage
+%\newpage
 \bibliography{PhD-Main_Project-Lit_Rep}
 \bibliographystyle{aasjournal}
 
